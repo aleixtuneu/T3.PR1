@@ -1,6 +1,5 @@
 ﻿using System;
-using T3.Pr1;
-namespace PR1
+namespace T3.Pr1
 {
     public class Program
     {
@@ -8,6 +7,7 @@ namespace PR1
         public const string MsgOptionError = "Error. Selecciona una opció vàlida.";
         public const string Spacer = "\n";
 
+        
         public static void Main()
         {
             const string MsgIntroduceMaxCapacity = "Introdueix la capacitat màxima de simulacions: ";

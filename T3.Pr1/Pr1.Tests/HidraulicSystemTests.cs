@@ -10,7 +10,7 @@ namespace Pr1.Tests
         {
             // Arrange
             var system = new HidraulicSystem();
-            var validWaterFlow = 50; // Un valor válido
+            var validWaterFlow = 50;
 
             // Act
             system.SetWaterFlow(validWaterFlow);
